@@ -36,3 +36,10 @@
 - **Enhanced Input System**을 활용한 입력 처리
 - **AnimMontage**를 통한 콤보 구성
 
+<br>
+
+## 🔗 시연 영상
+
+프로젝트 시연 영상은 아래 링크를 통해 확인하실 수 있습니다:  
+[시연 영상 보기 (Google Drive)](https://drive.google.com/file/d/1WdGS_iOjOS8wM3dcLjuFmD8O_BXH-Vsi/view?usp=sharing)
+
